@@ -5,7 +5,7 @@
 #
 title: Kiet Tran
 email: ktran130596@gmail.com
-description: A simple and awesome blog theme powered by jekyll.
+description: Engineering blogs
 base-url: '/leonids'
 url: 'https://akiet00.github.io/leonids' # the base hostname & protocol for your site
 
@@ -36,9 +36,9 @@ kramdown:
 owner:
   name: Kiet Tran
   avatar: leonids-logo.png
-  job: "A jekyll theme"
-  bio: "A simple and awesome blog theme powered by jekyll."
-  email:
+  job: "Engineering Student"
+  bio: "A mechanical engineering student. Hoping to build a career in mechatronics/aerospace industry."
+  email: ktran130596@gmail.com
   disqus-shortname:
   twitter: #username
   facebook: #username
@@ -49,10 +49,10 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: akiet00 #username
   gitlab: #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
+  linkedin: ktran130596 #username
   skype: #username
   xing: #username
   instagram: #username
