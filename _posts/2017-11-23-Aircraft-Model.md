@@ -17,3 +17,6 @@ researching and building a aircraft model that can satisfy certain aerodynamics 
 [x] Research wing designs
 [x] Research tail design to best fit our flight envelop
 [x] ...
+
+##Video
+<video src="https://www.youtube.com/watch?v=akVvM-yCVJY">
