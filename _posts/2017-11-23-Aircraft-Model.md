@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Aircraft Model
-excerpt: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
-categories: [hello world]
+excerpt: "Testing my new website"
+categories: [Aerospace Engineering]
 comments: true
 image:
   feature:
