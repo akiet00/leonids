@@ -23,6 +23,6 @@ researching and building a aircraft model that can satisfy certain aerodynamics 
 
 <h2>Video</h2>
 <p>Watch the video below to find out how our aircraft was launched from the ground</p>
-<div style="background:#f2f7f7">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/akVvM-yCVJY" frameborder="0" allowfullscreen></iframe>
+<div style="background:#f4f8fb">
+  <iframe src="https://player.vimeo.com/video/244288407" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
